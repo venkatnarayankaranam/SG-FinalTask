@@ -91,4 +91,4 @@ spec:
           service:
             name: my-python-app-service
             port:
-              number: 80
+              number:  80
