@@ -103,7 +103,7 @@ jobs:
         uses: trstringer/manual-approval@v1
         with:
           secret: ${{ secrets.GITHUB_TOKEN }}
-          approvers: pallavibandreddy
+          approvers: venkatnarayankaranam
 
       - name: Checkout code
         uses: actions/checkout@v4
